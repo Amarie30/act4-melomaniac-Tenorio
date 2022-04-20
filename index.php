@@ -20,10 +20,10 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song 2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song 3</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song 4</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song 5</a></li>
                     </ul>
                 </div>
             </div>
@@ -45,62 +45,7 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         
-                        <?php
-                        echo "<h2 class='text-primary'>With a Smile</h2>";
-                        echo" <p class='text-dark'><b>by Eraserheads</b></p>";
-
-                        echo "<p>Lift your head, baby don't be scared</p>";
-                        echo "<p>Of the things that could go wrong along the way</p>";
-                        echo "<p>You'll get by, with a smile</p>";
-                        echo "<p>You can't win at everything but you can try</p>";
-                        echo"<br/>";
-
-                        echo "<p>Baby, you don't have to worry</p>";
-                        echo "<p>'Coz there ain't no need to hurry</p>";
-                        echo "<p>No one ever said that there's an easy way</p>";
-                        echo "<p>When they're closing all their doors</p>";
-                        echo "<p>And they don't want you anymore</p>";
-                        echo "<p>This sounds funny but I'll say it anyway</p>";
-                        echo "<br/>";
-
-                        echo "<p>Girl I'll stay through the bad times</p>";
-                        echo "<p>Even if I have to fetch you everyday</p>";
-                        echo "<p> We'll get by with a smile</p>";
-                        echo "<p>You can never be too happy in this life</p>";
-                        echo "<br/>";
-
-                        echo "<p>In a world where everybody</p>";
-                        echo "<p>Hates a happy ending story</p>";
-                        echo "<p>It's a wonder love that makes the world go round</p>";
-                        echo "<p>But don't let it bring you down</p>";
-                        echo "<p>And turn your face into a frown</p>";
-                        echo "<p>You'll get along with a little prayer and a song</p>";
-                        echo "<br/>";
-
-                        echo "<p>(Too doo doo....)</p>";
-                        echo "<p>Let me hear you sing it</p>";
-                        echo "<p>(Too doo doo....)</p>";
-                        echo "<br/>";
-
-                         echo "<p>In a world where everybody</p>";
-                        echo "<p>Hates a happy ending story</p>";
-                        echo "<p>It's a wonder love that makes the world go round</p>";
-                        echo "<p>But don't let it bring you down</p>";
-                        echo "<p>And turn your face into a frown</p>";
-                        echo "<p>You'll get along with a little prayer and a song</p>";
-                        echo "<br/>";
-
-                        echo "<p>Lift your head, baby don't be scared</p>";
-                        echo "<p>Of the things that could go wrong along the way</p>";
-                        echo "<p>You'll get by, with a smile</p>";
-                        echo "<p>Now it's time to kiss away those tears goodbye</p>";
-                        echo"<br/>";
-
-                        echo "<p>(Too doo doo....)</p>";
-                        echo "<p>Let me hear you sing it</p>";
-                        echo "<p>(Too doo doo....)</p>";
-                        echo "<br/>";
-                        ?>
+ 
 
                     </div>
                 </div>

@@ -19,11 +19,11 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
+                        <li class="nav-item"><a class="nav-link text-light">Song 2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song 3</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song 4</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song 5</a></li>
                     </ul>
                 </div>
             </div>
@@ -36,70 +36,7 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         
-                        <?php
-                        echo "<h2 class='text-primary'>Fall For You</h2>";
-                        echo" <p class='text-dark'><b>by Secondhand Serenade</b></p>;
 
-
-                        echo "<p>The best thing about tonight's that we're not fighting</p>";
-                        echo "<p>Could it be that we have been this way before</p>";
-                        echo "<p>I know you don't think that I am trying</p>";
-                        echo "<p>I know you're wearing thin down to the core</p>";
-                        echo "<br/>";
-
-                        echo "<p>But hold your breath</p>";
-                        echo "<p>Because tonight will be the night that I will fall for you</p>";
-                        echo "<p>Over again</p>";
-                        echo "<p>Don't make me change my mind</p>";
-                        echo "<p>I won't live to see another day</p>";
-                        echo "<p>I swear it's true</p>";
-                        echo "<p>Because a girl like you is impossible to find</p>";
-                        echo "<p>You're impossible to find</p>";
-                        echo "<br/>";
-
-                        echo "<p>This is not what I intended</p>";
-                        echo "<p>I always swore to you that I'd never tore apart</p>";
-                        echo "<p>You always thought that I was stronger</p>";
-                        echo "<p>I may have failed</p>";
-                        echo "<p>But I have loved you from the start</p>";
-                        echo "<p>Ohh</p>";
-                        echo "<br/>";
-
-                        echo "<p>But hold your breath</p>";
-                        echo "<p>Because tonight will be the night that I will fall for you</p>";
-                        echo "<p>Over again</p>";
-                        echo "<p>Don't make me change my mind</p>";
-                        echo "<p>I won't live to see another day</p>";
-                        echo "<p>I swear it's true</p>";
-                        echo "<p>Because a girl like you is impossible to find</p>";
-                        echo "<p>It's impossible to find</p>";
-                        echo "<br/>";
-
-                        echo "<p>So breath in so deep</p>";
-                        echo "<p>Breath me in</p>";
-                        echo "<p>I'm yours to keep</p>";
-                        echo "<p>And hold onto your words</p>";
-                        echo "<p>'Cause talk is cheap</p>";
-                        echo "<p>And remember me tonight</p>";
-                        echo "<p>When you're asleep</p>";
-                        echo "<br/>";
-
-                        echo "<p>Because tonight will be the night that I will fall for you</p>";
-                        echo "<p>Over again</p>";
-                        echo "<p>Don't make me change my mind</p>";
-                        echo "<p>I won't live to see another day</p>";
-                        echo "<p>I swear it's true</p>";
-                        echo "<p>Because a girl like you is impossible to find</p>;
-                        echo "<p>Tonight will be the night that I will fall for you</p>";
-                        echo "<p>Over again</p>";
-                        echo "<p>Don't make me change my mind</p>";
-                        echo "<p>I won't live to see another day</p>";
-                        echo "<p>I swear it's true</p>";
-                        echo "<p>Because a girl like you is impossible to find</p>;
-                        echo "<p>You're impossible to find</p>";
-
-
-                        ?>
 
                     </div>
                 </div>
