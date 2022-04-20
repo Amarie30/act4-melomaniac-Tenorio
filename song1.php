@@ -36,7 +36,7 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
 
-    <?php
+                  <?php
                         echo "<h2 class='text-primary'>All I Ever Need</h2>";
                         echo" <p class='text-dark'><b>by Austin Mahone</b></p>";
 
@@ -112,7 +112,7 @@
                         echo "<p>You're like a drug, no rehab can fix it</p>";
                         echo "<p>I think you're perfect, baby, even with your flaws</p>";
                         echo "<p>You ask what I like about you</p>";
-                        echo "<p>Ooh, I love it all</p>";                        <?php
+                        echo "<p>Ooh, I love it all</p>";                 
                         echo "<h2 class='text-primary'>Fall For You</h2>";
                         echo" <p class='text-dark'><b>by Secondhand Serenade</b></p>";
 
@@ -175,7 +175,7 @@
                         echo "<p>You're impossible to find</p>";
 
 
-                        ?>
+                    ?>
                     </div>
                 </div>
             </div>
