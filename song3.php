@@ -35,6 +35,80 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
+
+                        
+                   <?php
+                        echo "<h2 class='text-primary'>Sad Song</h2>";
+                        echo" <p class='text-dark'><b>by We the Kings feat. Elena Coats</b></p>";
+
+                        echo "<p>You and I</p>";
+                        echo "<p> We're like fireworks and symphonies exploding in the sky</p>";
+                        echo "<p>With you, I'm alive</p>";
+                        echo "<p>Like all the missing pieces in my heart</p>";
+                        echo "<p>They finally collide</p>";
+                        echo "<br/>";
+
+                        echo "<p>So stop right here in the moonlight</p>";
+                        echo "<p>'Cause I don't ever wanna close my eyes</p>";
+                        echo "<br/>";
+
+                        echo "<p>Without you, I feel broke</p>";
+                        echo "<p>Like I'm half of a whole</p>";
+                        echo "<p>Without you, I've got no hand to hold</p>";
+                        echo "<p>Without you, I feel torn</p>";
+                        echo "<p>Like a sail in a storm</p>";
+                        echo "<p>Without you, I'm just a sad song</p>";
+                        echo "<p>I'm just a sad song</p>";
+                        echo "<br/>";
+
+                        echo "<p>With you I fall</p>";
+                        echo "<p>It's like I'm leaving all my past in a silhouttes upon the wall</p>";
+                        echo "<p>With you I'm a beautiful mess</p>";
+                        echo "<p>It's like we're standing hand in hand</p>";
+                        echo "<p>With all our fears upon the edge</p>";
+                        echo "<br/>";
+
+
+                        echo "<p>So stop right here in the moonlight</p>";
+                        echo "<p>'Cause I don't ever wanna close my eyes</p>";
+                        echo "<br/>";
+
+                        echo "<p>Without you, I feel broke</p>";
+                        echo "<p>Like I'm half of a whole</p>";
+                        echo "<p>Without you, I've got no hand to hold</p>";
+                        echo "<p>Without you, I feel torn</p>";
+                        echo "<p>Like a sail in a storm</p>";
+                        echo "<p>Without you, I'm just a sad song</p>";
+                        echo "<p>I'm just a sad song</p>";
+                        echo "<br/>";
+
+                        echo "<p>You're the perfect melody</p>";
+                        echo "<p>The only harmony</p>";
+                        echo "<p>I wanna hear</p>";
+                        echo "<p>You're my favorite part of me</p>";
+                        echo "<p>With you standing next to me</p>";
+                        echo "<p>I've got nothing to fear</p>";
+                        echo "<br/>";
+
+                        echo "<p>Without you, I feel broke</p>";
+                        echo "<p>Like I'm half of a whole</p>";
+                        echo "<p>Without you, I've got no hand to hold</p>";
+                        echo "<p>Without you, I feel torn</p>";
+                        echo "<p>Like a sail in a storm</p>";
+                        echo "<p>Without you, I'm just a sad song</p>";
+                        echo "<p>I'm just a sad song</p>";
+                        echo "<br/>";
+
+                        echo "<p>Without you, I feel broke</p>";
+                        echo "<p>Like I'm half of a whole</p>";
+                        echo "<p>Without you, I've got no hand to hold</p>";
+                        echo "<p>Without you, I feel torn</p>";
+                        echo "<p>Like a sail in a storm</p>";
+                        echo "<p>Without you, I'm just a sad song</p>";
+                        echo "<p>I'm just a sad song</p>";
+                       
+
+                        ?>
                         
                     
                     </div>
